@@ -1,6 +1,6 @@
 Name:		texlive-practicalreports
 Version:	52312
-Release:	1
+Release:	2
 Summary:	Some macros for writing practical reports
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/practicalreports
