@@ -3,7 +3,7 @@ Version:	52312
 Release:	2
 Summary:	Some macros for writing practical reports
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/practicalreports
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/practicalreports
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/practicalreports.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/practicalreports.doc.r%{version}.tar.xz
